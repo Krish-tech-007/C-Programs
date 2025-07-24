@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730705652 source:c:\users\user\documents\c programs\sumofinputnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

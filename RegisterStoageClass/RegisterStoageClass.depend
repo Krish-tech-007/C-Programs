@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735401323 source:c:\users\user\documents\c programs\registerstoageclass\main.c
+	<stdio.h>
+	<stdlib.h>
+

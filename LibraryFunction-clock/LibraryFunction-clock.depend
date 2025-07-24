@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1738522898 source:c:\users\user\documents\c programs\libraryfunction-clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

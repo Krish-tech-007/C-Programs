@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728659633 source:c:\users\user\documents\c programs\shortcircuitfeature\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731704251 source:c:\users\user\documents\c programs\stringlength\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

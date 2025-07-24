@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734016976 source:c:\users\user\documents\c programs\staticstorageclass\main.c
+	<stdio.h>
+	<stdlib.h>
+

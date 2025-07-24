@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735403086 source:c:\users\user\documents\c programs\stackandheapmemory\main.c
+	<stdio.h>
+	<stdlib.h>
+

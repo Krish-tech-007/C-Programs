@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737709348 source:c:\users\user\documents\c programs\libraryfunction-sprintf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

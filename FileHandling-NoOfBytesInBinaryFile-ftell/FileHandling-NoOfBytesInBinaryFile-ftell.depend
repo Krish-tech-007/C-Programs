@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737144542 source:c:\users\user\documents\c programs\filehandling-noofbytesinbinaryfile-ftell\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728560398 source:c:\users\user\documents\c programs\casting\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736702674 source:c:\users\user\documents\c programs\filehandling-appendtextmode\main.c
+	<stdio.h>
+	<stdlib.h>
+

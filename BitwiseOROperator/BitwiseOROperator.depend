@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737580629 source:c:\users\user\documents\c programs\bitwiseoroperator\main.c
+	<stdio.h>
+	<stdlib.h>
+

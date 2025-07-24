@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734012129 source:c:\users\user\documents\c programs\fibonacciseriesnthterm\main.c
+	<stdio.h>
+	<stdlib.h>
+

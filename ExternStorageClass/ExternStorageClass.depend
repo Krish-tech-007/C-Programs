@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734020909 source:c:\users\user\documents\c programs\externstorageclass\main.c
+	<stdio.h>
+	<stdlib.h>
+

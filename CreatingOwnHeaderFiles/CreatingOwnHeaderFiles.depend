@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732054532 source:c:\users\user\documents\c programs\creatingownheaderfiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mathHeader.h"
+
+1732053592 c:\users\user\documents\c programs\creatingownheaderfiles\mathheader.h
+

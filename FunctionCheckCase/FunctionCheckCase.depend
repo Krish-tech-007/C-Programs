@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732055717 source:c:\users\user\documents\c programs\functioncheckcase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

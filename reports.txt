@@ -1,0 +1,2 @@
+Name: Mohan and Salary: 2000
+Name: Shyam and Salary: 5000

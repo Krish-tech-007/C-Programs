@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736322794 source:c:\users\user\documents\c programs\voidpointers\main.c
+	<stdio.h>
+	<stdlib.h>
+

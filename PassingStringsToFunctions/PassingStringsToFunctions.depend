@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736280554 source:c:\users\user\documents\c programs\passingstringstofunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+

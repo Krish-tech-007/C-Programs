@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736623893 source:c:\users\user\documents\c programs\commandlineargument-envp\main.c
+	<stdio.h>
+	<stdlib.h>
+

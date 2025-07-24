@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732734046 source:c:\users\user\documents\c programs\armstrongnumberfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

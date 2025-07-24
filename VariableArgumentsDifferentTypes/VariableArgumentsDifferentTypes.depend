@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736603172 source:c:\users\user\documents\c programs\variableargumentsdifferenttypes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+

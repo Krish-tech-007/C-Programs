@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728158463 source:c:\users\user\documents\c programs\characters\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728157060 source:c:\users\user\documents\c programs\characters\flushingproblem.c
+	<stdio.h>
+

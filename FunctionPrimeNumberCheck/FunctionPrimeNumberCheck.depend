@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1732054943 source:c:\users\user\documents\c programs\functionprimenumbercheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+

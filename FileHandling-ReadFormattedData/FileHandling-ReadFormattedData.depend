@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736964558 source:c:\users\user\documents\c programs\filehandling-readformatteddata\main.c
+	<stdio.h>
+	<stdlib.h>
+

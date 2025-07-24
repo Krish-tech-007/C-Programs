@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731624932 source:c:\users\user\documents\c programs\stringinputfromkeyboard\main.c
+	<stdio.h>
+	<stdlib.h>
+

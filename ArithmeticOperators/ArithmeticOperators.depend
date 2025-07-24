@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728148650 source:c:\users\user\documents\c programs\arithmeticoperators\main.c
+	<stdio.h>
+	<stdlib.h>
+
